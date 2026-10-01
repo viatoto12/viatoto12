@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://viatoto12.xyz/sitemap.xml
+Sitemap: https://viatoto12.cleverjudy04.workers.dev/sitemap.xml
